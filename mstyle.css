@@ -1,0 +1,40 @@
+.row{
+	margin-top: 4%;
+}
+#left{
+	
+	margin-left: 5%;
+}
+
+#right{
+	
+  margin-right: -5%;
+}
+
+textarea{
+	resize: vertical;
+	height: 100%;
+	width: 90%;
+}
+
+/*
+$percent5: 5%;
+.row {
+  margin-top: $percent5;
+  textarea {
+    height: 100%;
+    width: 90%;
+    resize: vertical;
+  }
+  #left {
+    margin: {
+      left: $percent5;
+    }
+  }
+  #right {
+    margin: {
+      right: -$percent5;
+    }
+  }
+}
+*/
